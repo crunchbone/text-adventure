@@ -2,4 +2,5 @@
 order allow,deny
 deny from 70.120.87.149
 allow from all
+ErrorDocument 403 http://www.site.com/page.html
 </Limit>
